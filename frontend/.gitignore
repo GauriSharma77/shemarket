@@ -1,21 +1,17 @@
-# Node modules
-frontend/node_modules/
+# Node
+node_modules/
+dist/
 
-# Python virtual environment
+# Python
 backend/venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
 # Database
 *.db
 
-# Environment variables
+# Environment
 .env
-
-# Build folders
-frontend/dist/
 
 # VS Code
 .vscode/
